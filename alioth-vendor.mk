@@ -302,6 +302,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/93_notificationCleanall_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/93_notificationCleanall_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/96_nfcCard_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/96_nfcCard_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/98_nfcCardSlow_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/98_nfcCardSlow_RTP.bin \
+    vendor/xiaomi/alioth/proprietary/vendor/firmware/99_POCO_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/99_POCO_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/9_ringTone4_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/9_ringTone4_P_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/AcousticGuitar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/AcousticGuitar_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/Atlantis_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Atlantis_RTP.bin \
@@ -631,6 +632,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/vibrator_firmware_aidl/93_notificationCleanall_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vibrator_firmware_aidl/93_notificationCleanall_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/vibrator_firmware_aidl/96_nfcCard_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vibrator_firmware_aidl/96_nfcCard_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/vibrator_firmware_aidl/98_nfcCardSlow_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vibrator_firmware_aidl/98_nfcCardSlow_RTP.bin \
+    vendor/xiaomi/alioth/proprietary/vendor/firmware/vibrator_firmware_aidl/99_POCO_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vibrator_firmware_aidl/99_POCO_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/firmware/vibrator_firmware_aidl/9_ringTone4_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vibrator_firmware_aidl/9_ringTone4_P_RTP.bin \
     vendor/xiaomi/alioth/proprietary/vendor/lib/hw/audio.primary.kona.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.kona.so \
     vendor/xiaomi/alioth/proprietary/vendor/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so \
